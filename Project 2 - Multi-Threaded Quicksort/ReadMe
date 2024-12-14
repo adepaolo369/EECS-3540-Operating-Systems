@@ -1,0 +1,11 @@
+Title: Lab 2 Multi-Threaded Quick Sort
+By: Alexander N. DePaolo
+Class: EECS 3540 Operating Systems and Systems Programming
+Teacher: Dr. Thomas
+Date: 3/10/2023
+Description: This program is designed to test the efficiency and explore ways to maximize efficiency of a specialized hybrid quicksort. This program is designed
+to test not only single threaded quicksort, but also shell sort, insertion sort, and various multithreaded quicksort options. The program offers various user options
+including  what number the hybrid quicksort switches to a specified alternative sort, whether to use median of three partitioning or normal low pivot choice partitioning, using multithreading or single thread,
+and including an EARLY thread before partitioning and multithreaded quicksort. 
+
+  */
