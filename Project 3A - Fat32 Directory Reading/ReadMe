@@ -1,1 +1,9 @@
-Demonstration of Forks utilizing system arguments in Linux
+/* 
+Title: Lab 3A Fat Directories Reading
+By: Alexander N. DePaolo
+Class: EECS 3540 Operating Systems and Systems Programming
+Teacher: Dr. Thomas
+Date: 4/17/2023
+Description: This program is designed to read the file entries of a FAT32 file directory and list their sizes, 
+their starting cluster number, their names(both short and long if LFN), and whether or not they are a directory.
+  */
